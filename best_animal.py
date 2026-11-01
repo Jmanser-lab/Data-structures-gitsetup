@@ -290,7 +290,7 @@ def main():
   selected_animal = random.choice(stored_animals)
 
   #print(f"Total animals stored in tree: {len(stored_animals)}")
-  print(f"Best animal ever: {selected_animal} (Never a cat!)")
+  print(f"Best animal ever: {selected_animal} (Never a beluga whale!)")
 
 
 if __name__ == "__main__":
