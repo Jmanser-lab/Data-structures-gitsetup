@@ -289,7 +289,7 @@ def main():
   # Randomly pick and display one animal
   selected_animal = random.choice(stored_animals)
 
-  #print(f"Total animals stored in tree: {len(stored_animals)}")
+  print(f"Total animals stored in tree: {len(stored_animals)}")
   print(f"Best animal ever: {selected_animal} (Never a cat!)")
 
 
