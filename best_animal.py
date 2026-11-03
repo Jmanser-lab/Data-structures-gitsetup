@@ -47,9 +47,10 @@ class AnimalTree:
       self._inorder_traversal(node.right, elements)
 
 
-# List of ~200 animals strictly excluding all felines (cats, tigers, lions, etc.)
+# List of ~200 animals strictly excluding all felines except Tilcayo (cats, tigers, lions, etc.)
 animals_data = [
     # Mammals (Canids, Ursids, Ungulates, Marsupials, etc.)
+    "Tilcayo",
     "Dog",
     "Wolf",
     "Fox",
